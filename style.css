@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(https://as2.ftcdn.net/v2/jpg/06/61/79/53/1000_F_661795316_QsJwGkjHZlD0aU7uEAkqwNTszHqiZZWO.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(https://as2.ftcdn.net/v2/jpg/06/61/79/53/1000_F_661795316_QsJwGkjHZlD0aU7uEAkqwNTszHqiZZWO);
     background-position: center;
     background-size: cover;
    height: 100vh;
